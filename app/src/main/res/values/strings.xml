@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">A-Bar Desio</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Utente</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Identificati</string>
+    <string name="error_invalid_email">Utente non valido</string>
+    <string name="error_invalid_password">Password troppo corta</string>
+    <string name="error_incorrect_password">Password errata</string>
+    <string name="error_field_required">Questo campo è obbligatorio</string>
+    <string name="permission_rationale">"Sono necessari i permessi sui contatti per l'autocompletamento del nome utente"
+    </string>
+    <string name="title_activity_main">Bar Desio Turno A</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_db">DbUtils</string>
+    <string name="labelscontrino1">Selezionare il prodotto</string>
+    <string name="labelscontrino2">Inserire la quantità</string>
+    <string name="labelscontrino3">Inserire la cifra</string>
+    <string name="labelscontrino4">Descrizione/note</string>
+    <string name="labelscontrinobutton">Acquisisci scontrino</string>
+    <string name="labelscontrinobutton2">Invia</string>
+    <string name="versamento_spinner_label">"Seleziona l'utente che effettua il versamento"</string>
+    <string name="versamento_txt_hint">"Importo da versare"</string>
+    <!-- Strings related to users -->
+    <string name="user1">Ornago</string>
+    <string name="user2">Tilotta</string>
+    <string name="user3">Guerini</string>
+    <string name="user4">Campisi</string>
+    <string name="user5">Brunno</string>
+    <string name="user6">Stasi</string>
+    <string name="user7">Pisano</string>
+    <string name="user8">Gaffuri</string>
+    <string name="user9">Sala</string>
+    <string name="user10">Corsini</string>
+    <string name="user11">Mobilità</string>
+    <string name="user12">Brugora</string>
+    <string name="user13">Rinforzi</string>
+    <string name="user14">Ospiti</string>
+    <string name="cassa">CASSA</string>
+    <string name="title_activity_dettaglio"></string>
+    <!-- Strings related to products -->
+    <string name="prodotto1">Caffè</string>
+    <string name="prodotto2">Acqua 1,5 lt</string>
+    <string name="prodotto3">Acqua 1 lt</string>
+    <string name="prodotto4">Bibite</string>
+    <string name="prodotto5">Birra</string>
+    <string name="prodotto6">Gelato</string>
+    <string name="prodotto7">Ghiacciolo</string>
+    <string name="prodotto8">Prodotto8</string>
+    <string name="prodotto9">Prodotto9</string>
+    <string name="title_activity_db">DBActivity</string>
+    <string name="title_activity_scontrino">ScontrinoActivity</string>
+    <string name="title_activity_cassa">CassaActivity</string>
+    <string name="title_scontrino_list">Scontrini</string>
+    <string name="title_scontrino_detail">Scontrino Detail</string>
+    <string name="title_activity_admin_scontrino">AdminScontrinoActivity</string>
+</resources>
